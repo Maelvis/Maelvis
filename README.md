@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Maria, I am a legal professional taking my first (big) steps into the world of programming, and currently making a career change into tech.
+My name is Maria, I am a legal professional taking my first (big) steps into the world of tech.
 
 😄 Pronouns: 
 
@@ -18,9 +18,6 @@ She/Her
 - [Super Smoothies](https://github.com/Maelvis/Super-Smoothies), the website I created with my team for the [Code First Girls](https://codefirstgirls.org.uk/) "Introduction to Web Development". This project won the Certificate for Project Excellence in the CFG course competition.
 - [Spotify Search](https://github.com/Maelvis/CFG-Spotify-Search), the Python programme I created for the "Coding Kickstarter Intensive - Introduction to Python Programming" course by Code First Girls. Use it to find songs and albums of an artist, using the Spotify API.
 
-⚡ Next steps:
-
-- I am looking for my first job as a software developer -talk to me about exciting graduate opportunities, junior roles and apprenticeships! I would also love an opportunity to collaborate on fun projects.
 
 📫 You can also find me here:
 
