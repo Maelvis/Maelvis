@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Maria, I am a legal professional taking my first (big) steps into the world of tech.
+My name is Maria, I am a former legal professional taking my first (big) steps into the world of tech as an Associate Software Developer.
 
 😄 Pronouns: 
 
